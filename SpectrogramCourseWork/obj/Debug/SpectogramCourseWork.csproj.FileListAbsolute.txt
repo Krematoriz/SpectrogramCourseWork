@@ -1,0 +1,14 @@
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\bin\Debug\SpectogramCourseWork.exe.config
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\bin\Debug\SpectogramCourseWork.exe
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\bin\Debug\SpectogramCourseWork.pdb
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\bin\Debug\NAudio.dll
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\bin\Debug\NAudio.xml
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.csprojAssemblyReference.cache
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.MainForm.resources
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.Properties.Resources.resources
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.csproj.GenerateResource.cache
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.csproj.CoreCompileInputs.cache
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.csproj.CopyComplete
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.exe
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\obj\Debug\SpectogramCourseWork.pdb
+D:\Downloads\Repos\SpectogramCourseWork\SpectogramCourseWork\bin\Debug\FftSharp.dll
